@@ -1,0 +1,3 @@
+1. 说明以下的正则表达式匹配的字符串类： [a-zA-Z]+； [A-Z][a-z]*； p[aeiou]{,2}t； \d+(\.\d+)?；([^aeiou][aeiou][^aeiou])*；\w+|[^\w\s]+。
+2. 创建一个文件，包含词汇和（任意指定）频率，其中每行包含一个词，一个空格和一个正整数，如：fuzzy 53。使用open(filename).readlines()将文件读入Python 链表。接下来，使用split()将每一行分成两个字段，并使用int()将其中的数字转换为一个整数。结果要求是链表形式：[['fuzzy', 53], ...]。
+3. 定义一个变量 silly 包含字符串：'newly formed bland ideas are inexpressible in an infuriating way'。编写代码执行以下任务：分割 silly 为一个字符串链表，每一个词一个字符串，使用 Python 的 split()操作，并保存到叫做 bland 的变量中；提取 silly 中每个词的第二个字母，将它们连接成一个字符串，得到'eoldrnnnna'；使用join()将bland 中的词组合成一个单独的字符串。确保结果字符串中的词以空格隔开。

@@ -2,7 +2,7 @@ import random
 import sys
 from nltk import *
 
-RANDOM_RANGE = 10
+RANDOM_RANGE = 3
 
 text = corpus.genesis.words('english-kjv.txt')
 bigrams = bigrams(text)
