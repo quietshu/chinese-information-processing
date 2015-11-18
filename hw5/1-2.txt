@@ -1,0 +1,1 @@
+down (PRT, ADP, ADV, NOUN, VERB, ADJ)
