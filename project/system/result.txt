@@ -1,0 +1,9 @@
+
+> nlp@1.0.0 start /Users/dsds/Documents/git/ChineseInformationProcessing/project/system
+> node --harmony --use-strict index.js
+
+楚门的世界 The Truman Show
+[ { word: '设定', score: 1136553200.094767 } ]
+[]
+[ { word: '世界', score: 3.726146840804635e+25 } ]
+[]
